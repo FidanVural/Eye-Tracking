@@ -13,5 +13,5 @@ Projenin çalıştırılabilmesi için bilgisyarınızda Python 3.x versiyonu ku
 - Dlib
 - Time
 
-Projede bulunan [eye_tracking.py](https://github.com/FidanVural/Eye-Tracking/blob/main/eye_tracking.py) kodu içerisinde kameradan alınan yüz görüntüsünden gözün konum bilgisi ekrana yazdırılmaktadır. Bir diğer [eye_tracking_with_bluetooth.py](https://github.com/FidanVural/Eye-Tracking/blob/main/eye_tracking_with_bluetooth.py) kodunda ise ekstra olarak bluetooth ile haberleşme kodu da bulunmaktadır. Bu kodun çalıştırılabilmesi için ekstra olarak "serial" kütüphanesinin kurulması gerekmektedir.
+Projede bulunan [eye_tracking.py](https://github.com/FidanVural/Eye-Tracking/blob/main/eye_tracking.py) kodu içerisinde kameradan alınan yüz görüntüsünden gözün konum bilgisi ekrana yazdırılmaktadır. Bir diğer [eye_tracking_with_bluetooth.py](https://github.com/FidanVural/Eye-Tracking/blob/main/eye_tracking_with_bluetooth.py) kodunda ise ekstra olarak bluetooth ile haberleşme kodu da bulunmaktadır. Bu kodun çalıştırılabilmesi için ek olarak "serial" kütüphanesinin kurulması gerekmektedir.
 

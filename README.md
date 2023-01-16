@@ -11,6 +11,7 @@ Projenin çalıştırılabilmesi için bilgisyarınızda Python 3.x versiyonu ku
 - OpenCV
 - Numpy
 - Dlib
+- Time
 
 Projede bulunan eye_tracking kodu içerisinde kameradan alınan yüz görüntüsünden gözün konum bilgisi ekrana yazdırılmaktadır. Bir diğer eye_trackinksajk kodunda ise ekstra olarak bluetooth ile haberleşme kodu da bulunmaktadır.
 
